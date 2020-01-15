@@ -6,3 +6,7 @@ How to install Django
 
 https://docs.djangoproject.com/en/3.0/topics/install/#installing-official-release
 
+How to install PIP
+
+https://pip.pypa.io/en/latest/installing/
+
